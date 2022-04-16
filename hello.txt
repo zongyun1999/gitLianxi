@@ -1,4 +1,4 @@
-hotfix is  ref
+hotfix is  ref!remote change!
 hello zongyun! hello  git!
 hello zongyun! hello  git!
 hello zongyun! hello  git!master
